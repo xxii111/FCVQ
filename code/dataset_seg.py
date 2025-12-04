@@ -32,7 +32,7 @@ class Dinov2DatasetTrain(Dataset):
                 return feat, file_name
 
 class Dinov2DatasetTest(datasets.ImageFolder):
-    """能返回文件名的dataset"""
+
 
     def __init__(
             self,
