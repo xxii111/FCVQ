@@ -13,6 +13,7 @@ To ensure training and testing, please make sure your environment supports both[
 
 # Usage
 You can perform both training and testing by running the `.sh` scripts, and you may need to modify the corresponding input arguments as required.
+Please not that the complexity results may vary depending on the computational capabilities of different hardware devices.
 
 # Acknowledgement
 Special thanks to Runsen Feng.
