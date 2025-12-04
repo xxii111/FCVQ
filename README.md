@@ -13,6 +13,7 @@ To ensure training and testing, please make sure your environment supports both[
 
 # Usage
 You can perform both training and testing by running the `.sh` scripts, and you may need to modify the corresponding input arguments as required.
+Pretrained weights are provided here: [FCVQ_ckpt](https://rec.ustc.edu.cn/share/5d5e6dd0-d0ff-11f0-bc31-79c708ee0b89).
 Please not that the complexity results may vary depending on the computational capabilities of different hardware devices.
 
 # Acknowledgement
